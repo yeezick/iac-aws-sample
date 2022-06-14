@@ -1,0 +1,7 @@
+{
+  "Parameters": {
+    "KeyName": "beta-key",
+    "DBUser": "betaUser",
+    "DBPassword": "betaPassword123"
+  }
+}
